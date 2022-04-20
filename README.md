@@ -65,7 +65,7 @@ Mentioned in the jupyter notebooks.
 ## Installation
 
 ### For data preparation (not needed as the data file is already created and is at Data/csv/11_python.csv)
-### Note: 11_python.csv contains all the data (6th - 10th grade Science and 11th Python) unlike the name sugests.
+### Note: 11_python.csv contains all the data (6th - 10th grade Science and 11th Python), unlike the name suggests.
 
 1. Clone repository
 2. Open read_data.ipynb
@@ -77,18 +77,18 @@ Mentioned in the jupyter notebooks.
 1. Clone repository
 2. Use the **TG_tar/export_184196893.tar.gz** file to setup TigerGraph Cloud machine
 3. Load **11_python.csv** with has header **'check the box'**, delimiter **'|'** and enclosing character **'"' (double quote)**
-4. Open **Query_TigerGraph.ipynb** on Google colab, use GPU runtime
+4. Open **Query_TigerGraph.ipynb** on Google colab or, use this [link](https://drive.google.com/file/d/1fewXctlNwBPGIOxLavljDw-I1OCQ9QaC/view?usp=sharing), use GPU runtime
 5. Set **credentials** for pyTigerGraph to access your graph from the notebook
 6. Run all the cells from the top (includes library dependencies and assets)
 
 ## Known Issues and Future Improvements
 
-- The solution can be extended to include n-grams, and similarities at para, section, chapter levels by extracting key components at respective levels and creating embeddings.
+- The solution can be extended to include n-grams and similarities at para, section, and chapter levels by extracting key components at respective levels and creating embeddings.
 
 ## Reflections
 
-- It has been gruelling but fun few days learning TigerGraph, building and submitting the project.
-- The end and the begining. :)
+- It has been a grueling but fun few days of learning TigerGraph, building, and submitting the project.
+- The end and the beginning. :)
 
 ## References
 
