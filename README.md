@@ -64,8 +64,9 @@ Mentioned in the jupyter notebooks.
 
 ## Installation
 
-### For data preparation (not needed as the data file is already created and is at Data/csv/11_python.csv)
-### Note: 11_python.csv contains all the data (6th - 10th grade Science and 11th Python), unlike the name suggests.
+### For data preparation:
+**(not needed as the data file is already created and is at Data/csv/11_python.csv)
+**Note:** "11_python.csv" contains all the data (6th - 10th grade Science and 11th Python), unlike the name suggests.
 
 1. Clone repository
 2. Open read_data.ipynb
