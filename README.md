@@ -4,7 +4,7 @@ TigerGraph based tool to find the context of a topic in a child's educational jo
 
 **Contact Info**: Ruthvik Reddy SL | ruthvikreddy.sankepalli@gmail.com
 
-**Graph for All Demo Video**: [link](https://www.youtube.com/watch?v=YYeh53WhcCk) 
+**Abhyas Edu Context x Graph for All Challenge Demo**: [link](https://www.youtube.com/watch?v=k__FmVL8eyU) 
 
 **Devpost Submission**: [link](https://devpost.com/software/abhyas-edu-context)
  
