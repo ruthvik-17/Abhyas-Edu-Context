@@ -65,17 +65,18 @@ Mentioned in the jupyter notebooks.
 ## Installation
 
 ### For data preparation:
-**(not needed as the data file is already created and is at Data/csv/11_python.csv)
+**(not needed as the data file is already created and is at Data/csv/11_python.csv)**
+ 
 **Note:** "11_python.csv" contains all the data (6th - 10th grade Science and 11th Python), unlike the name suggests.
 
-1. Clone repository
+1. Clone this repository
 2. Open read_data.ipynb
 3. Run cells from the start to install dependencies
 4. You'll find the data at Data/csv/11_python.csv
 
-### For Abhyas Edu Context Testing
+### For Abhyas Edu Context Testing:
 
-1. Clone repository
+1. Clone this repository
 2. Use the **TG_tar/export_184196893.tar.gz** file to setup TigerGraph Cloud machine
 3. Load **11_python.csv** with has header **'check the box'**, delimiter **'|'** and enclosing character **'"' (double quote)**
 4. Open **Query_TigerGraph.ipynb** on Google colab or, use this [link](https://drive.google.com/file/d/1fewXctlNwBPGIOxLavljDw-I1OCQ9QaC/view?usp=sharing), use GPU runtime
